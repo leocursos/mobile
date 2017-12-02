@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20210"
         version   = "3.4.0">
-    <name>Moodle Mobile</name>
+    <name>Leo Cursos</name>
 
     <description>
-        Moodle Mobile official app
+        Oficial app da Leo Cursos
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://cursos.leolivros.com.br" email="mobile@leolivros.com.br">
+       Leo Cursos
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
