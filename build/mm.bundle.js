@@ -71092,10 +71092,10 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "br.com.leolivros.cursos",
+    "app_id" : "br.com.cursos.leolivros",
     "appname": "Leo Cursos",
     "desktopappname": "Leo Cursos",
-    "versioncode" : "0001",
+    "versioncode" : "001",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "pt-br",
