@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.leocursos.mobile"
-        versionCode = "0001"
+        id        = "br.com.cursos.leolivros"
+        versionCode = "001"
         version   = "1.0.0">
     <name>Leo Cursos</name>
 
