@@ -1,6 +1,6 @@
 {
 "app_id" : "br.com.cursos.leolivros",
-"versioncode" : "383",
+"versioncode" : "001",
 "versionname" : "0.1",
 "cache_expiration_time" : 300000,
 "default_lang" : "pt-br",
@@ -20,5 +20,5 @@
 "extra_js": [],
 "notifications_enabled": true,
 "gcmpn": "694767596569",
-"reportbugmail": "mobile@moodle.com"
+"reportbugmail": "mobile@leolivros.com.br"
 }
